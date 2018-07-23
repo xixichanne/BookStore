@@ -1,0 +1,14 @@
+com\zucc\demo\model\RatingVo.class
+com\zucc\demo\controller\RatingController.class
+com\zucc\demo\dao\UserDAO.class
+com\zucc\demo\dao\BookDAO.class
+com\zucc\demo\controller\BookController.class
+com\zucc\demo\controller\UserController.class
+com\zucc\demo\model\UserVo.class
+com\zucc\demo\dao\UserDAOImpl.class
+com\zucc\demo\dao\BookDAOImpl.class
+com\zucc\demo\dao\RatingDAO.class
+com\zucc\demo\dao\RatingDAOImpl.class
+com\zucc\demo\model\BookRatingVo.class
+com\zucc\demo\modeling\RMSE.class
+com\zucc\demo\model\BookVo.class
